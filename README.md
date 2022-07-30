@@ -1,5 +1,5 @@
 
-## Olá, meu nome é Vladimir, DBA SQL Server
+## Olá, meu nome é Vladimir, Sou DBA SQL Server
 
 
  ![Snake animation](https://github.com/VladimircarlosJr/VladimircarlosJr/blob/output/github-contribution-grid-snake.svg)
